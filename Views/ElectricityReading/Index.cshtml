@@ -1,0 +1,191 @@
+@model IEnumerable<Proj1.Models.ElectricityReading>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Day)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H2)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H3)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H4)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H5)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H6)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H7)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H8)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H9)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H10)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H11)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H12)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H13)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H14)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H15)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H16)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H17)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H18)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H19)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H20)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H21)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H22)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H23)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.H24)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalUnits)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Meter)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Day)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H2)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H3)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H4)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H5)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H6)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H7)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H8)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H9)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H10)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H11)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H12)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H13)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H14)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H15)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H16)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H17)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H18)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H19)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H20)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H21)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H22)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H23)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.H24)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalUnits)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Meter.Id)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

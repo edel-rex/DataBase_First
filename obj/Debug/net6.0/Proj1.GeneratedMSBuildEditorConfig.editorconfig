@@ -1,0 +1,184 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Proj1
+build_property.RootNamespace = Proj1
+build_property.ProjectDir = e:\PROJECTS\Tech Projects\Kovai.co\Training\Workspace\ASP.NET Core MVC\Proj1\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = e:\PROJECTS\Tech Projects\Kovai.co\Training\Workspace\ASP.NET Core MVC\Proj1
+build_property._RazorSourceGeneratorDebug = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Bill/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Bill/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Bill/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Bill/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Bill/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/BuildingType/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVpbGRpbmdUeXBlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/BuildingType/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVpbGRpbmdUeXBlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/BuildingType/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVpbGRpbmdUeXBlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/BuildingType/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVpbGRpbmdUeXBlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/BuildingType/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVpbGRpbmdUeXBlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Building/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVpbGRpbmdcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Building/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVpbGRpbmdcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Building/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVpbGRpbmdcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Building/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVpbGRpbmdcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Building/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVpbGRpbmdcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/ElectricityConnectionType/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3RyaWNpdHlDb25uZWN0aW9uVHlwZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/ElectricityConnectionType/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3RyaWNpdHlDb25uZWN0aW9uVHlwZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/ElectricityConnectionType/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3RyaWNpdHlDb25uZWN0aW9uVHlwZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/ElectricityConnectionType/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3RyaWNpdHlDb25uZWN0aW9uVHlwZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/ElectricityConnectionType/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3RyaWNpdHlDb25uZWN0aW9uVHlwZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/ElectricityReading/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3RyaWNpdHlSZWFkaW5nXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/ElectricityReading/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3RyaWNpdHlSZWFkaW5nXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/ElectricityReading/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3RyaWNpdHlSZWFkaW5nXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/ElectricityReading/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3RyaWNpdHlSZWFkaW5nXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/ElectricityReading/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3RyaWNpdHlSZWFkaW5nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Meter/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0ZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Meter/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0ZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Meter/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0ZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Meter/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0ZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Meter/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Slab/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2xhYlxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Slab/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2xhYlxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Slab/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2xhYlxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Slab/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2xhYlxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Slab/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2xhYlxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/PROJECTS/Tech Projects/Kovai.co/Training/Workspace/ASP.NET Core MVC/Proj1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9uj5huv0qq

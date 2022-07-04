@@ -1,0 +1,167 @@
+@model Proj1.Models.ElectricityReading
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>ElectricityReading</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Id" class="control-label"></label>
+                <input asp-for="Id" class="form-control" />
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MeterId" class="control-label"></label>
+                <select asp-for="MeterId" class ="form-control" asp-items="ViewBag.MeterId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Day" class="control-label"></label>
+                <input asp-for="Day" class="form-control" />
+                <span asp-validation-for="Day" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="H1" class="control-label"></label>
+                <input asp-for="H1" class="form-control" />
+                <span asp-validation-for="H1" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="H2" class="control-label"></label>
+                <input asp-for="H2" class="form-control" />
+                <span asp-validation-for="H2" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="H3" class="control-label"></label>
+                <input asp-for="H3" class="form-control" />
+                <span asp-validation-for="H3" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="H4" class="control-label"></label>
+                <input asp-for="H4" class="form-control" />
+                <span asp-validation-for="H4" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="H5" class="control-label"></label>
+                <input asp-for="H5" class="form-control" />
+                <span asp-validation-for="H5" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="H6" class="control-label"></label>
+                <input asp-for="H6" class="form-control" />
+                <span asp-validation-for="H6" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="H7" class="control-label"></label>
+                <input asp-for="H7" class="form-control" />
+                <span asp-validation-for="H7" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="H8" class="control-label"></label>
+                <input asp-for="H8" class="form-control" />
+                <span asp-validation-for="H8" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="H9" class="control-label"></label>
+                <input asp-for="H9" class="form-control" />
+                <span asp-validation-for="H9" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="H10" class="control-label"></label>
+                <input asp-for="H10" class="form-control" />
+                <span asp-validation-for="H10" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="H11" class="control-label"></label>
+                <input asp-for="H11" class="form-control" />
+                <span asp-validation-for="H11" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="H12" class="control-label"></label>
+                <input asp-for="H12" class="form-control" />
+                <span asp-validation-for="H12" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="H13" class="control-label"></label>
+                <input asp-for="H13" class="form-control" />
+                <span asp-validation-for="H13" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="H14" class="control-label"></label>
+                <input asp-for="H14" class="form-control" />
+                <span asp-validation-for="H14" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="H15" class="control-label"></label>
+                <input asp-for="H15" class="form-control" />
+                <span asp-validation-for="H15" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="H16" class="control-label"></label>
+                <input asp-for="H16" class="form-control" />
+                <span asp-validation-for="H16" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="H17" class="control-label"></label>
+                <input asp-for="H17" class="form-control" />
+                <span asp-validation-for="H17" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="H18" class="control-label"></label>
+                <input asp-for="H18" class="form-control" />
+                <span asp-validation-for="H18" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="H19" class="control-label"></label>
+                <input asp-for="H19" class="form-control" />
+                <span asp-validation-for="H19" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="H20" class="control-label"></label>
+                <input asp-for="H20" class="form-control" />
+                <span asp-validation-for="H20" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="H21" class="control-label"></label>
+                <input asp-for="H21" class="form-control" />
+                <span asp-validation-for="H21" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="H22" class="control-label"></label>
+                <input asp-for="H22" class="form-control" />
+                <span asp-validation-for="H22" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="H23" class="control-label"></label>
+                <input asp-for="H23" class="form-control" />
+                <span asp-validation-for="H23" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="H24" class="control-label"></label>
+                <input asp-for="H24" class="form-control" />
+                <span asp-validation-for="H24" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotalUnits" class="control-label"></label>
+                <input asp-for="TotalUnits" class="form-control" />
+                <span asp-validation-for="TotalUnits" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
